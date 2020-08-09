@@ -40,13 +40,27 @@
     </a>
   </h4>
 
-**Message me on twitter :** [![Follow CCostan](https://img.shields.io/twitter/follow/CCostan)](https://www.twitter.com/ccostan) or [![Follow Bear Stone Home](https://img.shields.io/twitter/follow/BearStoneHA)](https://www.twitter.com/BearStoneHA)
+**Message me on twitter :** [![Follow CCostan](https://img.shields.io/twitter/follow/CCostan)](https://www.twitter.com/ccostan) and [![Follow Bear Stone Home](https://img.shields.io/twitter/follow/BearStoneHA)](https://www.twitter.com/BearStoneHA)
 <!-- Subscribe Section -->
 <p align="center">
 <a href="https://eepurl.com/dmXFYz"><img align="center" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/email_link.png" height="50" ></a>.
 <!-- Subscribe Section END-->
 <p align="center">
 <a target="_blank" href="https://www.buymeacoffee.com/vCloudInfo"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">You can buy me a coffee if you would like to show support</span></a><a target="_blank" href="https://www.buymeacoffee.com/vCloudInfo"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"></a>
+
+<br />
+<br />
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![counter](https://enrqt1c1amo9d75.m.pipedream.net)
 
