@@ -55,6 +55,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Enable Alexa Guard Mode via Home Assistant using Presence Detection](https://www.youtube.com/watch?v=YKowQNFxbYQ)
+- [SCRIPT MODE Release: Home Assistant 0.113 - Highlights!](https://www.youtube.com/watch?v=jFMs6fEc7R4)
+- [NO CLOUD! - How to set Garadget to LOCAL MQTT ONLY](https://www.youtube.com/watch?v=gvCtXEd2-pk)
+- [Solar Powered LED Water Fountain Review!](https://www.youtube.com/watch?v=Of0L2WVdGyk)
+- [SPEED Release: Home Assistant 0.112 - Highlights!](https://www.youtube.com/watch?v=lOkxH8_PCR4)
 <!-- YOUTUBE:END -->
 
 ---
