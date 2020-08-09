@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
+          committer_username: "vCloudInfo.bot"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC301G8JJFzY0BZ_0lshpKpQ"
