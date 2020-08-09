@@ -73,5 +73,9 @@
 - [Best ways to Shrink and Optimize FSLogix Profile VHD files](https://www.vcloudinfo.com/2020/07/best-ways-to-shrink-and-optimize-fslogix-profile-vhd-files.html)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<p align="center"><a align="center" target="_blank" href="https://github.com/CCOSTAN/Home-AssistantConfig#------bear-stone-smart-home-documentation"><img src="https://feeds.feedburner.com/RecentCommitsToBearStoneHA.1.gif" alt="Recent Commits to Bear Stone Smart Home" style="border:0"></a></p>
+
 ![counter](https://enrqt1c1amo9d75.m.pipedream.net)
 
