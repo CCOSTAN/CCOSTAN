@@ -39,6 +39,18 @@
       Support
     </a>
   </h4>
+<p align="center">  
+  <table>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig"><b>Bear Stone Smart Home</b></a></td>
+      <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig?style=flat-square&labelColor=343b41"/></a></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/CCOSTAN/Home-AssistantConfig?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img alt="Issues" src="https://img.shields.io/github/issues/CCOSTAN/Home-AssistantConfig?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig/pulls?q=is%3Apr"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CCOSTAN/Home-AssistantConfig?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	 </tbody>
+</table>
 
 **Message me on twitter :** [![Follow CCostan](https://img.shields.io/twitter/follow/CCostan)](https://www.twitter.com/ccostan) and [![Follow Bear Stone Home](https://img.shields.io/twitter/follow/BearStoneHA)](https://www.twitter.com/BearStoneHA)
 <!-- Subscribe Section -->
