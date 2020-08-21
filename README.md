@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s new with VMware Horizon 8 (Or 2006 as it prefers to be called)](https://www.vcloudinfo.com/2020/08/whats-new-with-vmware-horizon-8-or-2006-as-it-prefers-to-be-called.html)
 - [How to Enable Alexa Guard Mode via Home Assistant using Presence Detection](https://www.vcloudinfo.com/2020/08/how-to-enable-alexa-guard-mode-via-home-assistant-using-presence-detection.html)
 - [How to Deploy VMware UAG to Azure](https://www.vcloudinfo.com/2020/07/how-to-deploy-vmware-uag-to-azure.html)
 - [zLauncher v2: Introducing “Thin Client Mode”](https://www.vcloudinfo.com/2020/07/zlauncher-v2-introducing-thin-client-mode.html)
 - [How to configure Garadget for LOCAL MQTT Only](https://www.vcloudinfo.com/2020/07/how-to-configure-garadget-for-local-mqtt-only.html)
-- [Best ways to Shrink and Optimize FSLogix Profile VHD files](https://www.vcloudinfo.com/2020/07/best-ways-to-shrink-and-optimize-fslogix-profile-vhd-files.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
