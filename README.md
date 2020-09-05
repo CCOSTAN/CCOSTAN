@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Smart Home Plugs – Power Measurements](https://www.vcloudinfo.com/2020/09/smart-home-plugs-power-measurements.html)
 - [Adding a Lightning Sensor to Home Assistant](https://www.vcloudinfo.com/2020/08/adding-a-lightning-sensor-to-home-assistant.html)
 - [What’s New in VMware UAG 3.10](https://www.vcloudinfo.com/2020/08/whats-new-in-vmware-uag-3-10.html)
 - [MS Edge (Chromium) issues on Citrix with Fixes](https://www.vcloudinfo.com/2020/08/ms-edge-chromium-issues-on-citrix-with-fixes.html)
 - [What’s new with VMware Horizon 8 (Or 2006 as it prefers to be called)](https://www.vcloudinfo.com/2020/08/whats-new-with-vmware-horizon-8-or-2006-as-it-prefers-to-be-called.html)
-- [How to Enable Alexa Guard Mode via Home Assistant using Presence Detection](https://www.vcloudinfo.com/2020/08/how-to-enable-alexa-guard-mode-via-home-assistant-using-presence-detection.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
