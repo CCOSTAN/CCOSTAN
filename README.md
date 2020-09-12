@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant Smart DIY Basketball Backboard Project](https://www.vcloudinfo.com/2020/09/home-assistant-smart-diy-basketball-backboard-project.html)
 - [Citrix Provisioning Services – Upgrade is very Slow](https://www.vcloudinfo.com/2020/09/citrix-provisioning-services-upgrade-is-very-slow.html)
 - [Smart Home Plugs – Power Measurements](https://www.vcloudinfo.com/2020/09/smart-home-plugs-power-measurements.html)
 - [Adding a Lightning Sensor to Home Assistant](https://www.vcloudinfo.com/2020/08/adding-a-lightning-sensor-to-home-assistant.html)
 - [What’s New in VMware UAG 3.10](https://www.vcloudinfo.com/2020/08/whats-new-in-vmware-uag-3-10.html)
-- [MS Edge (Chromium) issues on Citrix with Fixes](https://www.vcloudinfo.com/2020/08/ms-edge-chromium-issues-on-citrix-with-fixes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
