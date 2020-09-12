@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Home Assistant Smart DIY Basketball Project](https://www.youtube.com/watch?v=SQFaiHRWu4A)
 - [Automating with Home Assistant Lightning Detector - Blitzortung.org](https://www.youtube.com/watch?v=jwnovbXCrGY)
 - [DARK MODE Release: Home Assistant 0.114 - Highlights!](https://www.youtube.com/watch?v=QfumhdRxBOI)
 - [How to Enable Alexa Guard Mode via Home Assistant using Presence Detection](https://www.youtube.com/watch?v=YKowQNFxbYQ)
 - [SCRIPT MODE Release: Home Assistant 0.113 - Highlights!](https://www.youtube.com/watch?v=jFMs6fEc7R4)
-- [NO CLOUD! - How to set Garadget to LOCAL MQTT ONLY](https://www.youtube.com/watch?v=gvCtXEd2-pk)
 <!-- YOUTUBE:END -->
 
 ---
