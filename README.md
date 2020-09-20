@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Home Assistant 115.1 Upgrade & Breaking Change Fixes](https://www.youtube.com/watch?v=UU4At8piPAQ)
 - [BIRTHDAY Release: Home Assistant 0.115 - Highlights!](https://www.youtube.com/watch?v=haCjyLLZmmU)
 - [Home Assistant SUPERVISOR Enhancements and Highlights!](https://www.youtube.com/watch?v=lpFer0C0meY)
 - [Home Assistant Smart DIY Basketball Project](https://www.youtube.com/watch?v=SQFaiHRWu4A)
 - [Automating with Home Assistant Lightning Detector - Blitzortung.org](https://www.youtube.com/watch?v=jwnovbXCrGY)
-- [DARK MODE Release: Home Assistant 0.114 - Highlights!](https://www.youtube.com/watch?v=QfumhdRxBOI)
 <!-- YOUTUBE:END -->
 
 ---
