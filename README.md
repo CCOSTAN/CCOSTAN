@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Home Assistant Time_Pattern based Cuckoo Clock](https://www.youtube.com/watch?v=uX_UsrJdvHk)
 - [The New Wyze Video Doorbell - News Bite](https://www.youtube.com/watch?v=hqpVFaeB3fU)
 - [Home Assistant 115.1 Upgrade & Breaking Change Fixes](https://www.youtube.com/watch?v=UU4At8piPAQ)
 - [BIRTHDAY Release: Home Assistant 0.115 - Highlights!](https://www.youtube.com/watch?v=haCjyLLZmmU)
 - [Home Assistant SUPERVISOR Enhancements and Highlights!](https://www.youtube.com/watch?v=lpFer0C0meY)
-- [Home Assistant Smart DIY Basketball Project](https://www.youtube.com/watch?v=SQFaiHRWu4A)
 <!-- YOUTUBE:END -->
 
 ---
