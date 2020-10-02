@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Meetings in VMware Horizon](https://www.vcloudinfo.com/2020/10/optimizing-meetings-in-vmware-horizon.html)
 - [The New Wyze Smart Video Doorbell](https://www.vcloudinfo.com/2020/09/the-new-wyze-smart-video-doorbell.html)
 - [VMware Horizon 2006 (8) client not supported on Windows 10 build 1809](https://www.vcloudinfo.com/2020/09/vmware-horizon-2006-8-client-not-supported-on-windows-10-build-1809.html)
 - [Home Assistant Smart DIY Basketball Backboard Project](https://www.vcloudinfo.com/2020/09/home-assistant-smart-diy-basketball-backboard-project.html)
 - [Citrix Provisioning Services – Upgrade is very Slow](https://www.vcloudinfo.com/2020/09/citrix-provisioning-services-upgrade-is-very-slow.html)
-- [Smart Home Plugs – Power Measurements](https://www.vcloudinfo.com/2020/09/smart-home-plugs-power-measurements.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
