@@ -67,7 +67,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [SnapShot Release: Home Assistant 0.116 - Highlights!](https://www.youtube.com/watch?v=3Fk6M_UyT30)
+- [SNAPSHOT Release: Home Assistant 0.116 - Highlights!](https://www.youtube.com/watch?v=3Fk6M_UyT30)
 - [Home Assistant Time_Pattern based Cuckoo Clock](https://www.youtube.com/watch?v=uX_UsrJdvHk)
 - [The New Wyze Video Doorbell - News Bite](https://www.youtube.com/watch?v=hqpVFaeB3fU)
 - [Home Assistant 115.1 Upgrade & Breaking Change Fixes](https://www.youtube.com/watch?v=UU4At8piPAQ)
