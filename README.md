@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Using YAML Node Anchors in Home Assistant - Simple Examples](https://www.youtube.com/watch?v=0JPL7N5xsec)
 - [SNAPSHOT Release: Home Assistant 0.116 - Highlights!](https://www.youtube.com/watch?v=3Fk6M_UyT30)
 - [Home Assistant Time_Pattern based Cuckoo Clock](https://www.youtube.com/watch?v=uX_UsrJdvHk)
 - [The New Wyze Video Doorbell - News Bite](https://www.youtube.com/watch?v=hqpVFaeB3fU)
 - [Home Assistant 115.1 Upgrade & Breaking Change Fixes](https://www.youtube.com/watch?v=UU4At8piPAQ)
-- [BIRTHDAY Release: Home Assistant 0.115 - Highlights!](https://www.youtube.com/watch?v=haCjyLLZmmU)
 <!-- YOUTUBE:END -->
 
 ---
