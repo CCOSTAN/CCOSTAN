@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What happens if you let VMware Support Expire?](https://www.vcloudinfo.com/2020/10/what-happens-if-you-let-vmware-support-expire.html)
 - [Using the VMware Help Desk Tool to Troubleshoot Horizon Sessions](https://www.vcloudinfo.com/2020/10/using-the-vmware-help-desk-tool-to-troubleshoot-horizon-sessions.html)
 - [Simple Example of using YAML Node Anchors in Home Assistant](https://www.vcloudinfo.com/2020/10/simple-example-of-using-yaml-node-anchors-in-home-assistant.html)
 - [Optimizing Meetings in VMware Horizon](https://www.vcloudinfo.com/2020/10/optimizing-meetings-in-vmware-horizon.html)
 - [The New Wyze Smart Video Doorbell](https://www.vcloudinfo.com/2020/09/the-new-wyze-smart-video-doorbell.html)
-- [VMware Horizon 2006 (8) client not supported on Windows 10 build 1809](https://www.vcloudinfo.com/2020/09/vmware-horizon-2006-8-client-not-supported-on-windows-10-build-1809.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
