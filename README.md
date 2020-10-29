@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lovelace Release: Home Assistant 0.117 - Highlights!](https://www.youtube.com/watch?v=NSttb_oh9tI)
 - [Track stocks with Home Assistant using Yahoo Finance!](https://www.youtube.com/watch?v=CELb7JdTjSc)
 - [Using YAML Node Anchors in Home Assistant - Simple Examples](https://www.youtube.com/watch?v=0JPL7N5xsec)
 - [SNAPSHOT Release: Home Assistant 0.116 - Highlights!](https://www.youtube.com/watch?v=3Fk6M_UyT30)
 - [Home Assistant Time_Pattern based Cuckoo Clock](https://www.youtube.com/watch?v=uX_UsrJdvHk)
-- [The New Wyze Video Doorbell - News Bite](https://www.youtube.com/watch?v=hqpVFaeB3fU)
 <!-- YOUTUBE:END -->
 
 ---
