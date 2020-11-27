@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Home Assistant Pet Automation Example](https://www.youtube.com/watch?v=1Ps3AUN2p1I)
 - [Video Projection Mapping Sneak Peek #shorts](https://www.youtube.com/watch?v=C7eljJnpxGQ)
 - [The Card Release: Home Assistant 0.118 - Highlights!](https://www.youtube.com/watch?v=vvDJ0LJGXe0)
 - [Home Assistant Actionable Notifications Example - Find the Remote](https://www.youtube.com/watch?v=n13wrw-eTvU)
 - [Changing August Lock Batteries #shorts](https://www.youtube.com/watch?v=UdcCeAyo9Ak)
-- [Home Assistant Android Companion 3.0 Release - Highlights!](https://www.youtube.com/watch?v=-o-FcaKFWco)
 <!-- YOUTUBE:END -->
 
 ---
