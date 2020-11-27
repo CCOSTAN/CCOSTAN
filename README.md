@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant Pet Automation Example](https://www.vcloudinfo.com/2020/11/home-assistant-pet-automation-example.html)
 - [Home Assistant IOS Actionable Notifications Example](https://www.vcloudinfo.com/2020/11/home-assistant-ios-actionable-notifications-example.html)
 - [How to change August Smart Lock Batteries](https://www.vcloudinfo.com/2020/11/how-to-change-august-smart-lock-batteries.html)
 - [How to Track Stocks in Home Assistant using a Custom Component](https://www.vcloudinfo.com/2020/10/how-to-track-stocks-in-home-assistant-using-a-custom-component.html)
 - [What happens if you let VMware Support Expire?](https://www.vcloudinfo.com/2020/10/what-happens-if-you-let-vmware-support-expire.html)
-- [Using the VMware Help Desk Tool to Troubleshoot Horizon Sessions](https://www.vcloudinfo.com/2020/10/using-the-vmware-help-desk-tool-to-troubleshoot-horizon-sessions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
