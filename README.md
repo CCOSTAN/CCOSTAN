@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to disable Alexa Delivery Notification Descriptions](https://www.vcloudinfo.com/2020/11/how-to-disable-alexa-delivery-notification-descriptions.html)
 - [Home Assistant Pet Automation Example](https://www.vcloudinfo.com/2020/11/home-assistant-pet-automation-example.html)
 - [Home Assistant IOS Actionable Notifications Example](https://www.vcloudinfo.com/2020/11/home-assistant-ios-actionable-notifications-example.html)
 - [How to change August Smart Lock Batteries](https://www.vcloudinfo.com/2020/11/how-to-change-august-smart-lock-batteries.html)
 - [How to Track Stocks in Home Assistant using a Custom Component](https://www.vcloudinfo.com/2020/10/how-to-track-stocks-in-home-assistant-using-a-custom-component.html)
-- [What happens if you let VMware Support Expire?](https://www.vcloudinfo.com/2020/10/what-happens-if-you-let-vmware-support-expire.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
