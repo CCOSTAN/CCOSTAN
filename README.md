@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Conico Camera with Alexa Show 8 #shorts](https://www.youtube.com/watch?v=A-OkceUYbrw)
 - [The Conference 1.0 Release: Home Assistant 2020.12 - Highlights!](https://www.youtube.com/watch?v=mhFqZGnuKA0)
 - [How to disable Alexa Gift Notifications #shorts](https://www.youtube.com/watch?v=REschQdsd0w)
 - [Home Assistant Pet Automation Example](https://www.youtube.com/watch?v=1Ps3AUN2p1I)
 - [Video Projection Mapping Sneak Peek #shorts](https://www.youtube.com/watch?v=C7eljJnpxGQ)
-- [The Card Release: Home Assistant 0.118 - Highlights!](https://www.youtube.com/watch?v=vvDJ0LJGXe0)
 <!-- YOUTUBE:END -->
 
 ---
