@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to decode Windows Version Numbers](https://www.vcloudinfo.com/2020/12/how-to-decode-windows-version-numbers.html)
 - [What is the VMware UAG N+1 Deployment?](https://www.vcloudinfo.com/2020/12/what-is-the-vmware-uag-n1-deployment.html)
 - [How to disable Alexa Delivery Notification Descriptions](https://www.vcloudinfo.com/2020/11/how-to-disable-alexa-delivery-notification-descriptions.html)
 - [Home Assistant Pet Automation Example](https://www.vcloudinfo.com/2020/11/home-assistant-pet-automation-example.html)
 - [Home Assistant IOS Actionable Notifications Example](https://www.vcloudinfo.com/2020/11/home-assistant-ios-actionable-notifications-example.html)
-- [How to change August Smart Lock Batteries](https://www.vcloudinfo.com/2020/11/how-to-change-august-smart-lock-batteries.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
