@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Prevent iPhone duplicates in Home Assistant #shorts](https://www.youtube.com/watch?v=HmLDimU06r4)
 - [Tossing the Fridge and 2020! #shorts](https://www.youtube.com/watch?v=EMdbgp1ELK4)
 - [Conico Camera with Alexa Show 8 #shorts](https://www.youtube.com/watch?v=A-OkceUYbrw)
 - [The Conference 1.0 Release: Home Assistant 2020.12 - Highlights!](https://www.youtube.com/watch?v=mhFqZGnuKA0)
 - [How to disable Alexa Gift Notifications #shorts](https://www.youtube.com/watch?v=REschQdsd0w)
-- [Home Assistant Pet Automation Example](https://www.youtube.com/watch?v=1Ps3AUN2p1I)
 <!-- YOUTUBE:END -->
 
 ---
