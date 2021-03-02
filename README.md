@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert PEM to PFX certificates to use with VMware UAGs](https://www.vcloudinfo.com/2021/03/convert-pem-to-pfx-certificates-to-use-with-vmware-uags.html)
 - [How to decode Windows Version Numbers](https://www.vcloudinfo.com/2020/12/how-to-decode-windows-version-numbers.html)
 - [What is the VMware UAG N+1 Deployment?](https://www.vcloudinfo.com/2020/12/what-is-the-vmware-uag-n1-deployment.html)
 - [How to disable Alexa Delivery Notification Descriptions](https://www.vcloudinfo.com/2020/11/how-to-disable-alexa-delivery-notification-descriptions.html)
 - [Home Assistant Pet Automation Example](https://www.vcloudinfo.com/2020/11/home-assistant-pet-automation-example.html)
-- [Home Assistant IOS Actionable Notifications Example](https://www.vcloudinfo.com/2020/11/home-assistant-ios-actionable-notifications-example.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
