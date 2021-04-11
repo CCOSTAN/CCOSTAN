@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [UHaul Truck getting Hammered by Florida Hail Storm #shorts](https://www.youtube.com/watch?v=bqGkF5t20zg)
 - [The My Home Assistant Release: 2021.3 - Highlights!](https://www.youtube.com/watch?v=35QiFD6YA8A)
 - [How to Prevent iPhone duplicates in Home Assistant #shorts](https://www.youtube.com/watch?v=HmLDimU06r4)
 - [Tossing the Fridge and 2020! #shorts](https://www.youtube.com/watch?v=EMdbgp1ELK4)
 - [Conico Camera with Alexa Show 8 #shorts](https://www.youtube.com/watch?v=A-OkceUYbrw)
-- [The Conference 1.0 Release: Home Assistant 2020.12 - Highlights!](https://www.youtube.com/watch?v=mhFqZGnuKA0)
 <!-- YOUTUBE:END -->
 
 ---
