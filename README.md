@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement Outlook Cached Mode with FSLogix profiles](https://www.vcloudinfo.com/2021/06/how-to-implement-outlook-cached-mode-with-fslogix-profiles.html)
 - [Enabling SNMP on VMware UAGs](https://www.vcloudinfo.com/2021/05/enabling-snmp-on-vmware-uags.html)
 - [zLauncher v3 – Easy Pasting into Remote sessions](https://www.vcloudinfo.com/2021/04/zlauncher-v3-easy-pasting-into-remote-sessions.html)
 - [SmartMerge – Free Command Line Directory Merge Utility](https://www.vcloudinfo.com/2021/03/smartmerge-free-command-line-directory-merge-utility.html)
 - [Convert PEM to PFX certificates to use with VMware UAGs](https://www.vcloudinfo.com/2021/03/convert-pem-to-pfx-certificates-to-use-with-vmware-uags.html)
-- [How to decode Windows Version Numbers](https://www.vcloudinfo.com/2020/12/how-to-decode-windows-version-numbers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
