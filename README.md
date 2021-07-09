@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Select Entity Release: Home Assistant 2021.7 - Highlights!](https://www.youtube.com/watch?v=V5KZMFCehVY)
 - [The Itty Bitty Release: Home Assistant 2021.6 - Highlights!](https://www.youtube.com/watch?v=wXw0kGnb2XM)
 - [The Database Release: Home Assistant 2021.5 - Highlights!](https://www.youtube.com/watch?v=ebQcLNO9eLU)
 - [The Advanced User Release: Home Assistant 2021.4 - Highlights!](https://www.youtube.com/watch?v=6d4ytFMjdhk)
 - [UHaul Truck getting Hammered by Florida Hail Storm #shorts](https://www.youtube.com/watch?v=bqGkF5t20zg)
-- [The My Home Assistant Release: 2021.3 - Highlights!](https://www.youtube.com/watch?v=35QiFD6YA8A)
 <!-- YOUTUBE:END -->
 
 ---
