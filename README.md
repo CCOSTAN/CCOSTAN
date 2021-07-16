@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in VMware Horizon 2106](https://www.vcloudinfo.com/2021/07/whats-new-in-vmware-horizon-2106.html)
 - [VMware vSphere Standard vs Enterprise Plus licensing editions](https://www.vcloudinfo.com/2021/07/vmware-vsphere-standard-vs-enterprise-plus-licensing-editions.html)
 - [How to (REALLY) disable Citrix Client Drive Access](https://www.vcloudinfo.com/2021/07/how-to-really-disable-citrix-client-drive-access.html)
 - [How to Implement Outlook Cached Mode with FSLogix profiles](https://www.vcloudinfo.com/2021/06/how-to-implement-outlook-cached-mode-with-fslogix-profiles.html)
 - [Enabling SNMP on VMware UAGs](https://www.vcloudinfo.com/2021/05/enabling-snmp-on-vmware-uags.html)
-- [zLauncher v3 – Easy Pasting into Remote sessions](https://www.vcloudinfo.com/2021/04/zlauncher-v3-easy-pasting-into-remote-sessions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
