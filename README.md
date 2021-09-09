@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The MORE Energy Release: Home Assistant 2021.9 - Highlights!](https://www.youtube.com/watch?v=CRwXDKm96SA)
 - [The Energy Release: Home Assistant 2021.8 - Highlights!](https://www.youtube.com/watch?v=HFO-egVjTL8)
 - [The Select Entity Release: Home Assistant 2021.7 - Highlights!](https://www.youtube.com/watch?v=V5KZMFCehVY)
 - [The Itty Bitty Release: Home Assistant 2021.6 - Highlights!](https://www.youtube.com/watch?v=wXw0kGnb2XM)
 - [The Database Release: Home Assistant 2021.5 - Highlights!](https://www.youtube.com/watch?v=ebQcLNO9eLU)
-- [The Advanced User Release: Home Assistant 2021.4 - Highlights!](https://www.youtube.com/watch?v=6d4ytFMjdhk)
 <!-- YOUTUBE:END -->
 
 ---
