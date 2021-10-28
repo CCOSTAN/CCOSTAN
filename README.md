@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VMware Horizon – Failed to connect to the Connection Server – v2106 and Above!](https://www.vcloudinfo.com/2021/10/vmware-horizon-failed-to-connect-to-the-connection-server-v2106-and-above.html)
 - [Dynamic Citrix ICA File Intercept + Modify + Launch Tool](https://www.vcloudinfo.com/2021/10/dynamic-citrix-ica-file-intercept-modify-launch-tool.html)
 - [Replace your Night Lights with SnapPower Outlet Covers](https://www.vcloudinfo.com/2021/10/replace-your-night-lights-with-snappower-outlet-covers.html)
 - [Sorting REG & INI files For Easy Comparison](https://www.vcloudinfo.com/2021/08/sorting-reg-ini-files-for-easy-comparison.html)
 - [Migrate Azure AD users to On-Premise Active Directory](https://www.vcloudinfo.com/2021/07/migrate-azure-ad-users-to-on-premise-active-directory.html)
-- [Best Practice – PC Printer Connection Configurations](https://www.vcloudinfo.com/2021/07/best-practice-pc-printer-connection-configurations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
