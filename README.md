@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Biggest Code Release: Home Assistant 2021.11 - Highlights!](https://www.youtube.com/watch?v=UiA684DTtx8)
 - [Replace your Night Lights with SnapPower Outlet Covers](https://www.youtube.com/watch?v=GDIo0SNhaFU)
 - [The Tuya Release: Home Assistant 2021.10 - Highlights!](https://www.youtube.com/watch?v=UAkfbXcP4VU)
 - [My Weight Loss Journey | 50 Pounds in 8 months Walking](https://www.youtube.com/watch?v=TpxOwCobclI)
 - [The MORE Energy Release: Home Assistant 2021.9 - Highlights!](https://www.youtube.com/watch?v=CRwXDKm96SA)
-- [The Energy Release: Home Assistant 2021.8 - Highlights!](https://www.youtube.com/watch?v=HFO-egVjTL8)
 <!-- YOUTUBE:END -->
 
 ---
