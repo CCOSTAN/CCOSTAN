@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What are you doing with your Wink Gear? #shorts](https://www.youtube.com/watch?v=1YoHutIrtNs)
 - [Why do we want Local Control for our IOT devices?](https://www.youtube.com/watch?v=2j3iQTZXZyg)
 - [The Biggest Code Release: Home Assistant 2021.11 - Highlights!](https://www.youtube.com/watch?v=UiA684DTtx8)
 - [Replace your Night Lights with SnapPower Outlet Covers](https://www.youtube.com/watch?v=GDIo0SNhaFU)
 - [The Tuya Release: Home Assistant 2021.10 - Highlights!](https://www.youtube.com/watch?v=UAkfbXcP4VU)
-- [My Weight Loss Journey | 50 Pounds in 8 months Walking](https://www.youtube.com/watch?v=TpxOwCobclI)
 <!-- YOUTUBE:END -->
 
 ---
