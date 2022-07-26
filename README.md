@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in VMware Horizon 2206](https://www.vcloudinfo.com/2022/07/whats-new-in-vmware-horizon-2206.html)
+- [zLauncher Version 4 – New Features](https://www.vcloudinfo.com/2022/07/zlauncher-version-4-new-features.html)
 - [Upgrading VXrail 4.7.5xx to 7.0.x](https://www.vcloudinfo.com/2022/06/upgrading-vxrail-4-7-5xx-to-7-0-x.html)
 - [WordPress 6.0 is here](https://www.vcloudinfo.com/2022/05/wordpress-6-0-is-here.html)
 - [How to Configure Home Assistant Energy Dashboard](https://www.vcloudinfo.com/2021/11/how-to-configure-home-assistant-energy-dashboard.html)
-- [Wink is Garbage](https://www.vcloudinfo.com/2021/11/wink-is-garbage.html)
-- [Choose Local Control for IOT when you can](https://www.vcloudinfo.com/2021/11/choose-local-control-for-iot-when-you-can.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
