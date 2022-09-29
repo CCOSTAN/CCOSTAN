@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hurricane Prep!](https://www.youtube.com/watch?v=CxlVURHFZjM)
 - [IOS Upgrade broke my HA Notifications!  #shorts](https://www.youtube.com/watch?v=rK5-Y5ta054)
 - [Coming at you FAST - Wyze Doorbell Footage #shorts](https://www.youtube.com/watch?v=5iz4ZykhN68)
 - [How to Configure Home Assistant Energy Dashboard](https://www.youtube.com/watch?v=jS_iUjdIO5E)
 - [What are you doing with your Wink Gear? #shorts](https://www.youtube.com/watch?v=1YoHutIrtNs)
-- [Why do we want Local Control for our IOT devices?](https://www.youtube.com/watch?v=2j3iQTZXZyg)
 <!-- YOUTUBE:END -->
 
 ---
