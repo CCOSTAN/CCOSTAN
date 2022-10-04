@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Two Way Group Policy Locator Tool](https://www.vcloudinfo.com/2022/10/two-way-active-directory-policy-locator-tool.html)
 - [Migrate option greyed out for VM](https://www.vcloudinfo.com/2022/09/migrate-option-greyed-out-for-vm.html)
 - [Reminder: Protect your Servers](https://www.vcloudinfo.com/2022/08/reminder-protect-your-servers.html)
 - [How to add columns to vSphere 7 HTML5 Client](https://www.vcloudinfo.com/2022/07/how-to-add-columns-to-vsphere-7-html5-client.html)
 - [What’s new in VMware Horizon 2206](https://www.vcloudinfo.com/2022/07/whats-new-in-vmware-horizon-2206.html)
-- [zLauncher Version 4 – New Features](https://www.vcloudinfo.com/2022/07/zlauncher-version-4-new-features.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
