@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simulating a power Outage to the UPS #shorts](https://www.youtube.com/watch?v=4R1DcC3qQG4)
 - [Adding Solar Lights to the Front Walkway](https://www.youtube.com/watch?v=BQ9U6sH7toI)
 - [Hurricane Prep!](https://www.youtube.com/watch?v=CxlVURHFZjM)
 - [IOS Upgrade broke my HA Notifications!  #shorts](https://www.youtube.com/watch?v=rK5-Y5ta054)
 - [Coming at you FAST - Wyze Doorbell Footage #shorts](https://www.youtube.com/watch?v=5iz4ZykhN68)
-- [How to Configure Home Assistant Energy Dashboard](https://www.youtube.com/watch?v=jS_iUjdIO5E)
 <!-- YOUTUBE:END -->
 
 ---
