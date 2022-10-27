@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Remote Finder ENGAGE! - Home Assistant Automation](https://www.youtube.com/watch?v=UiE8Rnxk5CA)
 - [Why Add the Eaton 3S UPS to your Tesla Powerwall Setup?](https://www.youtube.com/watch?v=WooydwpFFZw)
 - [Simulating a power Outage to the UPS #shorts](https://www.youtube.com/watch?v=4R1DcC3qQG4)
 - [Adding Solar Lights to the Front Walkway](https://www.youtube.com/watch?v=BQ9U6sH7toI)
 - [Hurricane Prep!](https://www.youtube.com/watch?v=CxlVURHFZjM)
-- [IOS Upgrade broke my HA Notifications!  #shorts](https://www.youtube.com/watch?v=rK5-Y5ta054)
 <!-- YOUTUBE:END -->
 
 ---
