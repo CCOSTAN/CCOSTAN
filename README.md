@@ -78,11 +78,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help: OneDrive Directory Synchronization Status?](https://www.vcloudinfo.com/2022/11/help-onedrive-directory-synchronization-status.html)
 - [Why I added the Eaton 3S UPS to my Tesla Powerwall Setup?](https://www.vcloudinfo.com/2022/10/why-i-added-the-eaton-3s-ups-to-my-tesla-powerwall-setup.html)
 - [Adding Solar Lights to the Front Walkway – 2 YEARS Ago!](https://www.vcloudinfo.com/2022/10/adding-solar-lights-to-the-front-walkway.html)
 - [Veeam Backup Limitation with Nutanix Acropolis](https://www.vcloudinfo.com/2022/10/veeam-backup-limitation-with-nutanix-acropolis.html)
 - [Two Way Group Policy Locator Tool](https://www.vcloudinfo.com/2022/10/two-way-active-directory-policy-locator-tool.html)
-- [Migrate option greyed out for VM](https://www.vcloudinfo.com/2022/09/migrate-option-greyed-out-for-vm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
