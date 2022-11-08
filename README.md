@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Check out the $40 Wyze Watch for tracking your steps!](https://www.youtube.com/watch?v=eTlwlChLNxA)
 - [LOOK! We Got MORE Solar LED Garden Lights!](https://www.youtube.com/watch?v=TigbEg3YIZI)
 - [Unboxing the $440 VillaNeri Light Starter Pack!](https://www.youtube.com/watch?v=sfzhPkStBTE)
 - [Echo Flex - Discontinued!](https://www.youtube.com/watch?v=W10a38af6-E)
 - [Remote Finder ENGAGE! - Home Assistant Automation](https://www.youtube.com/watch?v=UiE8Rnxk5CA)
-- [Why Add the Eaton 3S UPS to your Tesla Powerwall Setup?](https://www.youtube.com/watch?v=WooydwpFFZw)
 <!-- YOUTUBE:END -->
 
 ---
