@@ -3,7 +3,7 @@
 <p align="center">
 <div align="center"><a name="menu"></a>
   <h3>
-    <a href="https://www.vCloudInfo.com/tag/iot">
+    <a href="https://www.vcloudinfo.com/tag/smart-home">
       Blog
     </a>
     <span> | </span>
