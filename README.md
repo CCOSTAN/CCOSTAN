@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [What&#39;s Running in Home Assistant Lovelace Card](https://www.youtube.com/watch?v=LZA7rtxaMWA)
 - [Adding Roku to Home Assistant - with the Insignia NS-43D420NA20](https://www.youtube.com/watch?v=XvrVhsP1bB4)
 - [Check out the $40 Wyze Watch for tracking your steps!](https://www.youtube.com/watch?v=eTlwlChLNxA)
 - [LOOK! We Got MORE Solar LED Garden Lights!](https://www.youtube.com/watch?v=TigbEg3YIZI)
 - [Unboxing the $440 VillaNeri Light Starter Pack!](https://www.youtube.com/watch?v=sfzhPkStBTE)
-- [Echo Flex - Discontinued!](https://www.youtube.com/watch?v=W10a38af6-E)
 <!-- YOUTUBE:END -->
 
 ---
