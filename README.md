@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [zLauncher v5 – Features gone wild!](https://www.vcloudinfo.com/2023/02/zlauncher-v5-features-gone-wild.html)
 - [My favorite Custom Monopoly Rules](https://www.vcloudinfo.com/2023/01/my-favorite-custom-monopoly-rules.html)
 - [Improved REG &amp; INI File Sort Utility](https://www.vcloudinfo.com/2023/01/improved-reg-ini-file-sort-utility.html)
 - [What’s Running in Home Assistant? A Lovelace Card](https://www.vcloudinfo.com/2023/01/whats-running-in-home-assistant-a-lovelace-card.html)
 - [Introducing RegExport: A Tool for Live Exporting Registry Keys and Entries to .reg Files](https://www.vcloudinfo.com/2022/12/introducing-regexport-a-tool-for-live-exporting-registry-keys-and-entries-to-reg-files.html)
-- [Unboxing the $440 VilliaNeri Light Starter Pack!](https://www.vcloudinfo.com/2022/11/unboxing-the-440-villianeri-light-starter-pack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
