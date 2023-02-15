@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Guest Mode Boolean for Home Assistant #shorts](https://www.youtube.com/watch?v=xfNvhlYOsJg)
 - [50 Pound Transformation #shorts](https://www.youtube.com/watch?v=4nvx-gRrzd8)
-- [The Energy Statistics Graph Card #shorts](https://www.youtube.com/watch?v=ho98AxQ2f78)
+- [The Energy Statistics Graph Card for Home Assistant #shorts](https://www.youtube.com/watch?v=ho98AxQ2f78)
 - [What&#39;s Running in Home Assistant Lovelace Card](https://www.youtube.com/watch?v=LZA7rtxaMWA)
 - [Adding Roku to Home Assistant - with the Insignia NS-43D420NA20](https://www.youtube.com/watch?v=XvrVhsP1bB4)
-- [Check out the $40 Wyze Watch for tracking your steps!](https://www.youtube.com/watch?v=eTlwlChLNxA)
 <!-- YOUTUBE:END -->
 
 ---
