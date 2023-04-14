@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Leaving my current job.](https://www.vcloudinfo.com/2023/04/leaving-my-current-job.html)
 - [PSA: Careful upgrading Unifi to 6.5.28.14491](https://www.vcloudinfo.com/2023/02/psa-careful-upgrading-unifi-to-6-5-28-14491.html)
 - [zLauncher v5 – Features gone wild!](https://www.vcloudinfo.com/2023/02/zlauncher-v5-features-gone-wild.html)
 - [My favorite Custom Monopoly Rules](https://www.vcloudinfo.com/2023/01/my-favorite-custom-monopoly-rules.html)
 - [Improved REG &amp; INI File Sort Utility](https://www.vcloudinfo.com/2023/01/improved-reg-ini-file-sort-utility.html)
-- [What’s Running in Home Assistant? A Lovelace Card](https://www.vcloudinfo.com/2023/01/whats-running-in-home-assistant-a-lovelace-card.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
