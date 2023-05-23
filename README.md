@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to extend your Pi-Hole Ad protection beyond your own LAN](https://www.vcloudinfo.com/2023/05/how-to-extend-your-pi-hole-ad-protection-beyond-your-own-lan.html)
 - [Using ChatGPT to pass technical certifications](https://www.vcloudinfo.com/2023/05/using-chatgpt-to-pass-technical-certifications.html)
 - [Leaving my current job.](https://www.vcloudinfo.com/2023/04/leaving-my-current-job.html)
 - [PSA: Careful upgrading Unifi to 6.5.28.14491](https://www.vcloudinfo.com/2023/02/psa-careful-upgrading-unifi-to-6-5-28-14491.html)
 - [zLauncher v5 – Features gone wild!](https://www.vcloudinfo.com/2023/02/zlauncher-v5-features-gone-wild.html)
-- [My favorite Custom Monopoly Rules](https://www.vcloudinfo.com/2023/01/my-favorite-custom-monopoly-rules.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
