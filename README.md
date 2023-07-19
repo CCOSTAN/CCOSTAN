@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using ChatGPT to Dive DEEP into my Home Electric Data](https://www.vcloudinfo.com/2023/07/using-chatgpt-to-dive-deep-into-my-home-electric-data.html)
 - [Adjusting the Auto-Entities Card in Home Assistant](https://www.vcloudinfo.com/2023/06/adjusting-the-auto-entities-card-in-home-assistant.html)
 - [How to extend your Pi-Hole Ad protection beyond your own LAN](https://www.vcloudinfo.com/2023/05/how-to-extend-your-pi-hole-ad-protection-beyond-your-own-lan.html)
 - [Using ChatGPT to pass technical certifications](https://www.vcloudinfo.com/2023/05/using-chatgpt-to-pass-technical-certifications.html)
 - [Leaving my current job.](https://www.vcloudinfo.com/2023/04/leaving-my-current-job.html)
-- [PSA: Careful upgrading Unifi to 6.5.28.14491](https://www.vcloudinfo.com/2023/02/psa-careful-upgrading-unifi-to-6-5-28-14491.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
