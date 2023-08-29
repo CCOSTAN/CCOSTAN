@@ -94,7 +94,7 @@
 
 <p align="center"><a align="center" target="_blank" href="https://github.com/CCOSTAN/Home-AssistantConfig#------bear-stone-smart-home-documentation"><img src="https://feeds.feedburner.com/RecentCommitsToBearStoneHA.1.gif" alt="Recent Commits to Bear Stone Smart Home" style="border:0"></a></p>
 
-[![Carlo Costanzo's stats](https://github-readme-stats.vercel.app/api?username=ccostan)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=ccostan)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccostan&theme=dark)](https://git.io/streak-stats)
 
 ![counter](https://enrqt1c1amo9d75.m.pipedream.net)
