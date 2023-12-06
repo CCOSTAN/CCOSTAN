@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Attach a Custom Domain to Your Home Assistant Using Nabu Casa](https://www.vcloudinfo.com/2023/12/how-to-attach-a-custom-domain-to-your-home-assistant-using-nabu-casa.html)
 - [CCMenu: Windows 11 Classic Context Menu via Right-Double-Click](https://www.vcloudinfo.com/2023/11/ccmenu-windows-11-classic-context-menu-via-right-double-click.html)
 - [Using ChatGPT to Dive DEEP into my Home Electric Data](https://www.vcloudinfo.com/2023/07/using-chatgpt-to-dive-deep-into-my-home-electric-data.html)
 - [Adjusting the Auto-Entities Card in Home Assistant](https://www.vcloudinfo.com/2023/06/adjusting-the-auto-entities-card-in-home-assistant.html)
 - [How to extend your Pi-Hole Ad protection beyond your own LAN](https://www.vcloudinfo.com/2023/05/how-to-extend-your-pi-hole-ad-protection-beyond-your-own-lan.html)
-- [Using ChatGPT to pass technical certifications](https://www.vcloudinfo.com/2023/05/using-chatgpt-to-pass-technical-certifications.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
