@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Home Assistant Breaking Change #shorts](https://www.youtube.com/watch?v=9lDchJDXFwQ)
 - [Adding a Custom Domain to Home Assistant](https://www.youtube.com/watch?v=CpHWOhcAKFc)
 - [Real-Time AI Image Generation with ClipDrop&#39;s Stable Diffusion Turbo Model #ai #stablediffusion](https://www.youtube.com/watch?v=mDdNn3UIl7I)
 - [Returning my Tesla Loaner Model Y #tesla #teslamodely](https://www.youtube.com/watch?v=1z0ewHrTrhc)
 - [Adjusting the Auto-Entities Card in Home Assistant](https://www.youtube.com/watch?v=h3SIhPVAP4k)
-- [The Guest Mode Boolean for Home Assistant #shorts](https://www.youtube.com/watch?v=xfNvhlYOsJg)
 <!-- YOUTUBE:END -->
 
 ---
