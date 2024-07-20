@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to update OpenAI model in Home Assistant](https://www.youtube.com/watch?v=VhxbVQPKONk)
 - [How to Easily Update Your Amazon Echo Devices | Quick Tip #shorts](https://www.youtube.com/watch?v=NkC2P5kHjBA)
 - [Home Assistant Breaking Change #shorts](https://www.youtube.com/watch?v=9lDchJDXFwQ)
 - [Adding a Custom Domain to Home Assistant](https://www.youtube.com/watch?v=CpHWOhcAKFc)
 - [Real-Time AI Image Generation with ClipDrop&#39;s Stable Diffusion Turbo Model #ai #stablediffusion](https://www.youtube.com/watch?v=mDdNn3UIl7I)
-- [Returning my Tesla Loaner Model Y #tesla #teslamodely](https://www.youtube.com/watch?v=1z0ewHrTrhc)
 <!-- YOUTUBE:END -->
 
 ---
