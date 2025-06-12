@@ -75,8 +75,8 @@
 - [vCloudInfo Live Stream](https://www.youtube.com/watch?v=6OSTi_u1l4Y)
 - [Upgrade NOW to Frigate Camera NVR 0.14](https://www.youtube.com/watch?v=9QnOWwj6L5s)
 - [How to update OpenAI model in Home Assistant](https://www.youtube.com/watch?v=VhxbVQPKONk)
-- [How to Easily Update Your Amazon Echo Devices | Quick Tip #shorts](https://www.youtube.com/watch?v=NkC2P5kHjBA)
-- [Home Assistant Breaking Change #shorts](https://www.youtube.com/watch?v=9lDchJDXFwQ)
+- [How to Easily Update Your Amazon Echo Devices | Quick Tip #shorts](https://www.youtube.com/shorts/NkC2P5kHjBA)
+- [Home Assistant Breaking Change #shorts](https://www.youtube.com/shorts/9lDchJDXFwQ)
 <!-- YOUTUBE:END -->
 
 ---
