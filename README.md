@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scan the Panel: QR-Powered Breaker Notes](https://www.vcloudinfo.com/2026/01/qr-panel-notes-breaker-map.html)
 - [MCPs in My Homelab: Turning Codex Into a Real Ops + Dev Copilot](https://www.vcloudinfo.com/2026/01/mcps-in-my-homelab-codex-ops-dev-copilot.html)
 - [Using Home Assistant Time Machine to Back Up and Restore Dashboards](https://www.vcloudinfo.com/2025/12/home-assistant-time-machine-dashboards.html)
 - [How to Attach a Custom Domain to Your Home Assistant Using Nabu Casa](https://www.vcloudinfo.com/2023/12/how-to-attach-a-custom-domain-to-your-home-assistant-using-nabu-casa.html)
 - [CCMenu: Windows 11 Classic Context Menu via Right-Double-Click](https://www.vcloudinfo.com/2023/11/ccmenu-windows-11-classic-context-menu-via-right-double-click.html)
-- [Using ChatGPT to Dive DEEP into my Home Electric Data](https://www.vcloudinfo.com/2023/07/using-chatgpt-to-dive-deep-into-my-home-electric-data.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
