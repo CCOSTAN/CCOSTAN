@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gear List: Text-First Catalog for Home Assistant](https://www.vcloudinfo.com/2026/02/gear-list.html)
 - [Making Pi-hole Highly Available &lpar;and Fixing a Hidden Frigate Disk Trap&rpar;](https://www.vcloudinfo.com/2026/01/pihole-high-availability-second-dns-frigate-disk-trap.html)
 - [Scan the Panel: QR-Powered Breaker Notes](https://www.vcloudinfo.com/2026/01/qr-panel-notes-breaker-map.html)
 - [MCPs in My Homelab: Turning Codex Into a Real Ops + Dev Copilot](https://www.vcloudinfo.com/2026/01/mcps-in-my-homelab-codex-ops-dev-copilot.html)
 - [Using Home Assistant Time Machine to Back Up and Restore Dashboards](https://www.vcloudinfo.com/2025/12/home-assistant-time-machine-dashboards.html)
-- [How to Attach a Custom Domain to Your Home Assistant Using Nabu Casa](https://www.vcloudinfo.com/2023/12/how-to-attach-a-custom-domain-to-your-home-assistant-using-nabu-casa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
