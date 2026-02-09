@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tugtainer: Automated Docker Updates With Home Assistant Notifications](https://www.vcloudinfo.com/2026/02/tugtainer-docker-updates-home-assistant-notifications.html)
 - [Cruise Tracker Price Checks + Home Assistant Alerts &lpar;Issue #1555&rpar;](https://www.vcloudinfo.com/2026/02/cruise-tracker-price-checks-home-assistant-alerts-issue-1555.html)
 - [Gear List: Text-First Catalog for Home Assistant](https://www.vcloudinfo.com/2026/02/gear-list.html)
 - [Making Pi-hole Highly Available &lpar;and Fixing a Hidden Frigate Disk Trap&rpar;](https://www.vcloudinfo.com/2026/01/pihole-high-availability-second-dns-frigate-disk-trap.html)
 - [Scan the Panel: QR-Powered Breaker Notes](https://www.vcloudinfo.com/2026/01/qr-panel-notes-breaker-map.html)
-- [MCPs in My Homelab: Turning Codex Into a Real Ops + Dev Copilot](https://www.vcloudinfo.com/2026/01/mcps-in-my-homelab-codex-ops-dev-copilot.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
