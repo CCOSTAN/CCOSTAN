@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant MQTT Monitoring: Detect Broker Outages and Auto-Open Repairs](https://www.vcloudinfo.com/2026/03/home-assistant-mqtt-monitoring-repairs.html)
 - [Home Assistant Dashboard Design System &lpar;Button-Card First&rpar;](https://www.vcloudinfo.com/2026/02/home-assistant-dashboard-design-system-button-card.html)
 - [Home Assistant YAML DRY Verifier Skill: Wrap-Up and PR Link](https://www.vcloudinfo.com/2026/02/home-assistant-yaml-dry-verifier-skill-wrap-up.html)
 - [Tugtainer: Automated Docker Updates With Home Assistant Notifications](https://www.vcloudinfo.com/2026/02/tugtainer-docker-updates-home-assistant-notifications.html)
 - [Cruise Tracker Price Checks + Home Assistant Alerts &lpar;Issue #1555&rpar;](https://www.vcloudinfo.com/2026/02/cruise-tracker-price-checks-home-assistant-alerts-issue-1555.html)
-- [Gear List: Text-First Catalog for Home Assistant](https://www.vcloudinfo.com/2026/02/gear-list.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
