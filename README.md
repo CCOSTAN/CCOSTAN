@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant Repair Automation With BearClaw and Joanna](https://www.vcloudinfo.com/2026/03/home-assistant-repair-automation-bearclaw-joanna.html)
 - [Sleep Number Health Dashboard in Home Assistant: Trends + Bed Controls](https://www.vcloudinfo.com/2026/03/sleep-number-health-dashboard-home-assistant.html)
 - [Home Assistant MQTT Monitoring: Detect Broker Outages and Auto-Open Repairs](https://www.vcloudinfo.com/2026/03/home-assistant-mqtt-monitoring-repairs.html)
 - [Home Assistant Dashboard Design System &lpar;Button-Card First&rpar;](https://www.vcloudinfo.com/2026/02/home-assistant-dashboard-design-system-button-card.html)
 - [Home Assistant YAML DRY Verifier Skill: Wrap-Up and PR Link](https://www.vcloudinfo.com/2026/02/home-assistant-yaml-dry-verifier-skill-wrap-up.html)
-- [Tugtainer: Automated Docker Updates With Home Assistant Notifications](https://www.vcloudinfo.com/2026/02/tugtainer-docker-updates-home-assistant-notifications.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
