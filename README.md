@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Finally Knocked Out a 9-Year-Old Home Assistant Wake on LAN Todo](https://www.vcloudinfo.com/2026/04/home-assistant-wake-on-lan-workday-pc-automation.html)
 - [Joanna Reviews Home Assistant Changelogs After Tugtainer Updates &lpar;Human in the Loop&rpar;](https://www.vcloudinfo.com/2026/04/joanna-home-assistant-changelog-digest-tugtainer.html)
 - [Home Assistant GitHub Notifications: How Joanna Finds Nightly Automation Ideas](https://www.vcloudinfo.com/2026/03/home-assistant-github-notifications-joanna-nightly-scout.html)
 - [Home Assistant: Water Delivery Reminders &lpar;Night Before + Garage Alexa&rpar;](https://www.vcloudinfo.com/2026/03/home-assistant-water-delivery-reminder-readyrefresh.html)
 - [Home Assistant Repair Automation With BearClaw and Joanna](https://www.vcloudinfo.com/2026/03/home-assistant-repair-automation-bearclaw-joanna.html)
-- [Sleep Number Health Dashboard in Home Assistant: Trends + Bed Controls](https://www.vcloudinfo.com/2026/03/sleep-number-health-dashboard-home-assistant.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
