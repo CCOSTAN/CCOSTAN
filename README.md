@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Build Clean Home Assistant Dashboards with YAML Partials and Templates](https://www.youtube.com/watch?v=aFis2YPeSuY)
 - [The Weekly Digest Is Back: Smart Home Automation Ideas from My Home Assistant Config](https://www.youtube.com/watch?v=VgJ1t-VCreY)
 - [How to update Home Assistant to use GPT5](https://www.youtube.com/watch?v=sLydL0Luui4)
 - [vCloudInfo Live Stream](https://www.youtube.com/watch?v=6OSTi_u1l4Y)
 - [Upgrade NOW to Frigate Camera NVR 0.14](https://www.youtube.com/watch?v=9QnOWwj6L5s)
-- [How to update OpenAI model in Home Assistant](https://www.youtube.com/watch?v=VhxbVQPKONk)
 <!-- YOUTUBE:END -->
 
 ---
