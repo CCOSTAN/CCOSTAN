@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [All the Home Assistant Vacuum Automations We Use in Our Smart Home](https://www.vcloudinfo.com/2026/05/home-assistant-vacuum-automations-dreame-2026.html)
 - [Home Assistant Vacation Mode: A Smarter Way to Watch the House While You’re Away](https://www.vcloudinfo.com/2026/05/home-assistant-vacation-mode-house-sitter-automation.html)
 - [The Weekly Digest Is Back: Smart Home Automation Ideas from My Home Assistant Config](https://www.vcloudinfo.com/2026/05/weekly-digest-home-assistant-config.html)
 - [How I Turned Joanna Into an AGENT Engineer for Home Assistant Infrastructure Issues](https://www.vcloudinfo.com/2026/04/joanna-agent-engineer-home-assistant-infrastructure-dispatch.html)
 - [How I Finally Knocked Out a 9-Year-Old Home Assistant Wake on LAN Todo](https://www.vcloudinfo.com/2026/04/home-assistant-wake-on-lan-workday-pc-automation.html)
-- [Joanna Reviews Home Assistant Changelogs After Tugtainer Updates &lpar;Human in the Loop&rpar;](https://www.vcloudinfo.com/2026/04/joanna-home-assistant-changelog-digest-tugtainer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
