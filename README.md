@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [All the Home Assistant Garage Automations We Actually Use](https://www.youtube.com/watch?v=wFO0H5zgnzk)
 - [Smart Vacuum Automations in Home Assistant](https://www.youtube.com/watch?v=KKOWSKuF5jA)
 - [Don&#39;t Leave Home Without This: Advanced Home Assistant Vacation Logic](https://www.youtube.com/watch?v=15kRcFaVV2Y)
 - [Build Clean Home Assistant Dashboards with YAML Partials and Templates](https://www.youtube.com/watch?v=aFis2YPeSuY)
 - [The Weekly Digest Is Back: Smart Home Automation Ideas from My Home Assistant Config](https://www.youtube.com/watch?v=VgJ1t-VCreY)
-- [How to update Home Assistant to use GPT5](https://www.youtube.com/watch?v=sLydL0Luui4)
 <!-- YOUTUBE:END -->
 
 ---
