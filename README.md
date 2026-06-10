@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Home Assistant Package Reminder: Camera to Phone Alert](https://www.youtube.com/watch?v=nAhCezFetvI)
 - [Stop Home Assistant Notification Spam with Snooze Buttons](https://www.youtube.com/watch?v=y47KSflS1aw)
 - [All the Home Assistant Garage Automations We Actually Use](https://www.youtube.com/watch?v=wFO0H5zgnzk)
 - [Smart Vacuum Automations in Home Assistant](https://www.youtube.com/watch?v=KKOWSKuF5jA)
 - [Don&#39;t Leave Home Without This: Advanced Home Assistant Vacation Logic](https://www.youtube.com/watch?v=15kRcFaVV2Y)
-- [Build Clean Home Assistant Dashboards with YAML Partials and Templates](https://www.youtube.com/watch?v=aFis2YPeSuY)
 <!-- YOUTUBE:END -->
 
 ---
