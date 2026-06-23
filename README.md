@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant Leak Detection Automations](https://www.vcloudinfo.com/2026/06/home-assistant-leak-detection-automations.html)
 - [Turn a Cheap Fire Tablet Into a Home Assistant Camera Kiosk](https://www.vcloudinfo.com/2026/06/home-assistant-fire-tablet-camera-kiosk.html)
 - [Home Assistant Package Reminder: Camera to Phone Alert](https://www.vcloudinfo.com/2026/06/home-assistant-package-reminder-camera-to-phone-alert.html)
 - [Home Assistant Notification Snooze Buttons: Stop Alert Fatigue Without Missing the Reminder](https://www.vcloudinfo.com/2026/06/home-assistant-notification-snooze-buttons.html)
 - [All the Home Assistant Garage Automations We Actually Use](https://www.vcloudinfo.com/2026/05/home-assistant-garage-automations-arrival-alerts-tesla.html)
-- [All the Home Assistant Vacuum Automations We Use in Our Smart Home](https://www.vcloudinfo.com/2026/05/home-assistant-vacuum-automations-dreame-2026.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
