@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Track Codex Resets in Home Assistant Before They Expire](https://www.youtube.com/watch?v=7wKhtrvtyiI)
 - [Home Assistant Leak Detection Automations](https://www.youtube.com/watch?v=xbhgWnomFYI)
 - [Home Assistant Fire Table Dashboard Automations](https://www.youtube.com/watch?v=ChgEu0IDWzc)
 - [Home Assistant Package Reminder: Camera to Phone Alert](https://www.youtube.com/watch?v=nAhCezFetvI)
 - [Stop Home Assistant Notification Spam with Snooze Buttons](https://www.youtube.com/watch?v=y47KSflS1aw)
-- [5 Garage Automations to use in Home Assistant](https://www.youtube.com/watch?v=wFO0H5zgnzk)
 <!-- YOUTUBE:END -->
 
 ---
