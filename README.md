@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tesla Powerwall Stopped Charging: Home Assistant Watchdog](https://www.youtube.com/watch?v=hR_0lFEE2bA)
 - [Track Codex Resets in Home Assistant Before They Expire](https://www.youtube.com/watch?v=7wKhtrvtyiI)
 - [Home Assistant Leak Detection Automations](https://www.youtube.com/watch?v=xbhgWnomFYI)
 - [Home Assistant Fire Table Dashboard Automations](https://www.youtube.com/watch?v=ChgEu0IDWzc)
 - [Home Assistant Package Reminder: Camera to Phone Alert](https://www.youtube.com/watch?v=nAhCezFetvI)
-- [Stop Home Assistant Notification Spam with Snooze Buttons](https://www.youtube.com/watch?v=y47KSflS1aw)
 <!-- YOUTUBE:END -->
 
 ---
