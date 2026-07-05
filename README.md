@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Home Assistant Water Delivery Reminder Before Delivery Day](https://www.vcloudinfo.com/2026/07/home-assistant-water-delivery-reminder-before-delivery-day.html)
 - [Home Assistant Caught My HVAC Failure](https://www.vcloudinfo.com/2026/07/home-assistant-caught-my-hvac-failure.html)
 - [Tesla Powerwall Stopped Charging: Home Assistant Watchdog](https://www.vcloudinfo.com/2026/06/tesla-powerwall-home-assistant-watchdog.html)
 - [Track Codex Resets in Home Assistant Before They Expire](https://www.vcloudinfo.com/2026/06/track-codex-resets-home-assistant.html)
 - [Home Assistant Leak Detection Automations](https://www.vcloudinfo.com/2026/06/home-assistant-leak-detection-automations.html)
-- [Turn a Cheap Fire Tablet Into a Home Assistant Camera Kiosk](https://www.vcloudinfo.com/2026/06/home-assistant-fire-tablet-camera-kiosk.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
