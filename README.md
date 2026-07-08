@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tracking Water Softener Salt with Home Assistant](https://www.youtube.com/watch?v=_OqTv9i-jAs)
 - [Be Reminded to do things WHEN it matters in Home Assistant](https://www.youtube.com/watch?v=_s0CRfxITdY)
 - [Home Assistant Caught My HVAC Failure](https://www.youtube.com/watch?v=nScl2JxYSB8)
 - [Tesla Powerwall Stopped Charging: Home Assistant Watchdog](https://www.youtube.com/watch?v=hR_0lFEE2bA)
 - [Track Codex Resets in Home Assistant Before They Expire](https://www.youtube.com/watch?v=7wKhtrvtyiI)
-- [Home Assistant Leak Detection Automations](https://www.youtube.com/watch?v=xbhgWnomFYI)
 <!-- YOUTUBE:END -->
 
 ---
