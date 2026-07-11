@@ -72,11 +72,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to use Home Assistant and Tugtainer for Docker Updates](https://www.youtube.com/watch?v=4NNOkXzUyYw)
 - [Tracking Water Softener Salt with Home Assistant](https://www.youtube.com/watch?v=_OqTv9i-jAs)
 - [Home Assistant Reminders - Voice and Text Notifications](https://www.youtube.com/watch?v=_s0CRfxITdY)
 - [Home Assistant Caught My HVAC Failure](https://www.youtube.com/watch?v=nScl2JxYSB8)
 - [Tesla Powerwall Stopped Charging: Home Assistant Watchdog](https://www.youtube.com/watch?v=hR_0lFEE2bA)
-- [Track Codex Resets in Home Assistant Before They Expire](https://www.youtube.com/watch?v=7wKhtrvtyiI)
 <!-- YOUTUBE:END -->
 
 ---
