@@ -83,11 +83,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Codex to Clean Up Home Assistant Entities](https://www.vcloudinfo.com/2026/07/using-codex-clean-up-home-assistant-entities.html)
 - [How I Use Home Assistant and Tugtainer for Docker Updates](https://www.vcloudinfo.com/2026/07/home-assistant-tugtainer-docker-updates.html)
 - [Water Softener Salt, Tracked By Home Assistant](https://www.vcloudinfo.com/2026/07/home-assistant-water-softener-salt-automation.html)
 - [Home Assistant Water Delivery Reminder Before Delivery Day](https://www.vcloudinfo.com/2026/07/home-assistant-water-delivery-reminder-before-delivery-day.html)
 - [Home Assistant Caught My HVAC Failure](https://www.vcloudinfo.com/2026/07/home-assistant-caught-my-hvac-failure.html)
-- [Tesla Powerwall Stopped Charging: Home Assistant Watchdog](https://www.vcloudinfo.com/2026/06/tesla-powerwall-home-assistant-watchdog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
