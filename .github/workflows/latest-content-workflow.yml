@@ -1,0 +1,31 @@
+name: Latest videos and blog posts
+
+on:
+  schedule:
+    - cron: "10 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with the latest videos and blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Update latest content
+        run: python3 .github/scripts/update_latest_content.py
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name "vCloudInfo.bot"
+          git config user.email "blog-post-bot@example.com"
+          git add README.md
+          git commit -m "Updated with the latest videos and blog posts"
+          git push

@@ -51,7 +51,7 @@
 	    <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig"><b>Bear Stone Smart Home</b></a></td>
       <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig?style=flat-square&labelColor=343b41"/></a></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/CCOSTAN/Home-AssistantConfig?style=flat-square&labelColor=343b41"/></td>
-      <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img alt="Issues" src="https://img.shields.io/github/issues/CCOSTAN/Home-AssistantConfig?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img alt="Todos" src="https://img.shields.io/github/issues/CCOSTAN/Home-AssistantConfig?style=flat-square&label=Todos&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/CCOSTAN/Home-AssistantConfig/pulls?q=is%3Apr"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CCOSTAN/Home-AssistantConfig?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	 </tbody>
@@ -70,25 +70,14 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Using Codex to Clean Up Home Assistant Entities](https://www.youtube.com/watch?v=aceV7ObKJVA)
-- [How to use Home Assistant and Tugtainer for Docker Updates](https://www.youtube.com/watch?v=4NNOkXzUyYw)
-- [Tracking Water Softener Salt with Home Assistant](https://www.youtube.com/watch?v=_OqTv9i-jAs)
-- [Home Assistant Reminders - Voice and Text Notifications](https://www.youtube.com/watch?v=_s0CRfxITdY)
-- [Home Assistant Caught My HVAC Failure](https://www.youtube.com/watch?v=nScl2JxYSB8)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Using Codex to Clean Up Home Assistant Entities](https://www.vcloudinfo.com/2026/07/using-codex-clean-up-home-assistant-entities.html)
-- [How I Use Home Assistant and Tugtainer for Docker Updates](https://www.vcloudinfo.com/2026/07/home-assistant-tugtainer-docker-updates.html)
-- [Water Softener Salt, Tracked By Home Assistant](https://www.vcloudinfo.com/2026/07/home-assistant-water-softener-salt-automation.html)
-- [Home Assistant Water Delivery Reminder Before Delivery Day](https://www.vcloudinfo.com/2026/07/home-assistant-water-delivery-reminder-before-delivery-day.html)
-- [Home Assistant Caught My HVAC Failure](https://www.vcloudinfo.com/2026/07/home-assistant-caught-my-hvac-failure.html)
-<!-- BLOG-POST-LIST:END -->
+### 📺 Latest Videos and Blog Posts
+<!-- LATEST-CONTENT:START -->
+- **Using Codex to Clean Up Home Assistant Entities** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/aceV7ObKJVA) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/07/using-codex-clean-up-home-assistant-entities.html)
+- **How I Use Home Assistant and Tugtainer for Docker Updates** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/4NNOkXzUyYw) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/07/home-assistant-tugtainer-docker-updates.html)
+- **Water Softener Salt, Tracked By Home Assistant** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/_OqTv9i-jAs) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/07/home-assistant-water-softener-salt-automation.html)
+- **Home Assistant Water Delivery Reminder Before Delivery Day** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/_s0CRfxITdY) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/07/home-assistant-water-delivery-reminder-before-delivery-day.html)
+- **Home Assistant Caught My HVAC Failure** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/nScl2JxYSB8) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/07/home-assistant-caught-my-hvac-failure.html)
+<!-- LATEST-CONTENT:END -->
 
 ---
 
