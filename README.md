@@ -20,10 +20,6 @@
       Todo List
     </a>
     <span> | </span>
-    <a href="https://twitter.com/BearStoneHA">
-      Smart Home Stats
-    </a>
-    <span> | </span>
     <a href="https://www.vcloudinfo.com/click-here">
       Follow Me
     </a>
@@ -57,7 +53,7 @@
 	 </tbody>
 </table>
 
-**Message me on twitter :** [![Follow CCostan](https://img.shields.io/twitter/follow/CCostan)](https://www.twitter.com/ccostan) and [![Follow Bear Stone Home](https://img.shields.io/twitter/follow/BearStoneHA)](https://www.twitter.com/BearStoneHA)
+**Message me on X:** [![Follow CCostan](https://img.shields.io/twitter/follow/CCostan)](https://x.com/ccostan)
 <!-- Subscribe Section -->
 <p align="center">
 <a href="https://eepurl.com/dmXFYz"><img align="center" border="0" src="https://raw.githubusercontent.com/CCOSTAN/Home-AssistantConfig/master/config/www/custom_ui/floorplan/images/branding/email_link.png" height="50" ></a>.
@@ -80,8 +76,6 @@
 <!-- LATEST-CONTENT:END -->
 
 ---
-
-<p align="center"><a align="center" target="_blank" href="https://github.com/CCOSTAN/Home-AssistantConfig#------bear-stone-smart-home-documentation"><img src="https://feeds.feedburner.com/RecentCommitsToBearStoneHA.1.gif" alt="Recent Commits to Bear Stone Smart Home" style="border:0"></a></p>
 
 [![My stats](https://github-stats-extended.vercel.app/api?username=ccostan)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccostan&theme=dark)](https://git.io/streak-stats)
