@@ -68,11 +68,11 @@
 
 ### 📺 Latest Videos and Blog Posts
 <!-- LATEST-CONTENT:START -->
+- **Codex Tray: Monitor OpenAI Codex Usage on Windows** [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/08/codex-tray-monitor-openai-codex-usage-windows.html)
 - **How I Used Codex to Create a Facebook Marketplace Listing From One Photo** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/Cz6dEPXP_A4) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/08/codex-facebook-marketplace-listing-one-photo.html)
 - **zLauncher v7 – Still Alive!** [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/08/zlauncher-v7-still-alive.html)
 - **A Better Way to Monitor Internet Speed in Home Assistant** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/F-PpsKkzcrM) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/08/home-assistant-internet-speed-monitoring-ookla.html)
 - **Home Assistant Mobile Dashboard With Big Buttons** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/ujP-zYLEso8) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/07/home-assistant-mobile-dashboard-big-buttons.html)
-- **Tracking Air Quality in Home Assistant with Airly and Pirate Weather** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/Gjk7z34Qe_4) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/07/home-assistant-air-quality-airly-pirate-weather.html)
 <!-- LATEST-CONTENT:END -->
 
 ---
