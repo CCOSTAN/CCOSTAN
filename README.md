@@ -68,11 +68,11 @@
 
 ### 📺 Latest Videos and Blog Posts
 <!-- LATEST-CONTENT:START -->
+- **Get Early Tesla Tire Pressure Alerts in Home Assistant** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/hDNyZfTfTtE) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/09/home-assistant-tesla-tire-pressure-alerts.html)
 - **Get a Driveway Car Alert with Frigate + Home Assistant** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/X9qrywP3XS0) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/09/home-assistant-frigate-driveway-car-alert.html)
 - **Codex Tray: Monitor OpenAI Codex Usage on Windows** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/5EFgP04-Ssk) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/08/codex-tray-monitor-openai-codex-usage-windows.html)
 - **How I Used Codex to Create a Facebook Marketplace Listing From One Photo** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/Cz6dEPXP_A4) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/08/codex-facebook-marketplace-listing-one-photo.html)
 - **zLauncher v7 – Still Alive!** [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/08/zlauncher-v7-still-alive.html)
-- **A Better Way to Monitor Internet Speed in Home Assistant** [![Watch on YouTube](https://img.shields.io/badge/Watch-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/F-PpsKkzcrM) [![vCloudInfo Blog Post](https://img.shields.io/static/v1?label=vCloudInfo&message=Blog%20Post&color=21759B&logo=wordpress&logoColor=white)](https://www.vcloudinfo.com/2026/08/home-assistant-internet-speed-monitoring-ookla.html)
 <!-- LATEST-CONTENT:END -->
 
 ---
